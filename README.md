@@ -1,4 +1,6 @@
 # A RSS Reader written by python
+Subscribe Qiita popular items and Connpass latest events as examples.
+
 ## Requirements
 - Python3
 - feedparser
