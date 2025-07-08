@@ -3,7 +3,7 @@ import feedparser
 import requests
 import json
 
-keywords = [<your_key_words>]
+keywords = [<your_keywords>]
 qiitaRssUrl = 'https://qiita.com/popular-items/feed.atom'
 cnpsRssUrl = 'https://connpass.com/explore/ja.atom'
 
